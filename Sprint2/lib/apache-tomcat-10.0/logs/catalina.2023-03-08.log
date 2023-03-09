@@ -1,0 +1,145 @@
+08-Mar-2023 07:47:32.987 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Nom version serveur :              Apache Tomcat/10.0.27
+08-Mar-2023 07:47:33.000 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Serveur compilé :                  Oct 3 2022 14:18:31 UTC
+08-Mar-2023 07:47:33.000 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Version du serveur :               10.0.27.0
+08-Mar-2023 07:47:33.000 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Nom de l'OS :                      Linux
+08-Mar-2023 07:47:33.000 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Version OS :                       5.19.0-35-generic
+08-Mar-2023 07:47:33.000 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture :                     amd64
+08-Mar-2023 07:47:33.001 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home :                        /usr/lib/apache-netbeans/jdk
+08-Mar-2023 07:47:33.001 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Version JVM :                      17.0.6+10-LTS
+08-Mar-2023 07:47:33.001 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Fournisseur de la JVM :            Azul Systems, Inc.
+08-Mar-2023 07:47:33.001 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE :                    /home/ountsouu/logiciels/apache-tomcat-10.0.27
+08-Mar-2023 07:47:33.002 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME :                    /home/ountsouu/logiciels/apache-tomcat-10.0.27
+08-Mar-2023 07:47:33.038 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.lang=ALL-UNNAMED
+08-Mar-2023 07:47:33.039 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.io=ALL-UNNAMED
+08-Mar-2023 07:47:33.039 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util=ALL-UNNAMED
+08-Mar-2023 07:47:33.039 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+08-Mar-2023 07:47:33.039 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+08-Mar-2023 07:47:33.040 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.config.file=/home/ountsouu/logiciels/apache-tomcat-10.0.27/conf/logging.properties
+08-Mar-2023 07:47:33.040 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+08-Mar-2023 07:47:33.040 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dhttp.nonProxyHosts=localhost|127.0.0.1|ountsouu
+08-Mar-2023 07:47:33.040 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djdk.tls.ephemeralDHKeySize=2048
+08-Mar-2023 07:47:33.040 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+08-Mar-2023 07:47:33.040 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+08-Mar-2023 07:47:33.040 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dignore.endorsed.dirs=
+08-Mar-2023 07:47:33.041 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.base=/home/ountsouu/logiciels/apache-tomcat-10.0.27
+08-Mar-2023 07:47:33.041 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.home=/home/ountsouu/logiciels/apache-tomcat-10.0.27
+08-Mar-2023 07:47:33.041 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.io.tmpdir=/home/ountsouu/logiciels/apache-tomcat-10.0.27/temp
+08-Mar-2023 07:47:33.043 INFOS [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent La librairie Apache Tomcat Native basée sur APR qui permet des performances optimales dans les environnements de production n'a pas été trouvée sur le java.library.path : [/usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib]
+08-Mar-2023 07:47:34.122 INFOS [main] org.apache.coyote.AbstractProtocol.init Initialisation du gestionnaire de protocole ["http-nio-8080"]
+08-Mar-2023 07:47:34.191 INFOS [main] org.apache.catalina.startup.Catalina.load L'initialisation du serveur a pris [2223] millisecondes
+08-Mar-2023 07:47:34.377 INFOS [main] org.apache.catalina.core.StandardService.startInternal Démarrage du service [Catalina]
+08-Mar-2023 07:47:34.378 INFOS [main] org.apache.catalina.core.StandardEngine.startInternal Démarrage du moteur de Servlets : [Apache Tomcat/10.0.27]
+08-Mar-2023 07:47:34.389 INFOS [main] org.apache.catalina.startup.HostConfig.deployDescriptor Déploiement du descripteur de configuration [/home/ountsouu/logiciels/apache-tomcat-10.0.27/conf/Catalina/localhost/ServletMrNaina.xml]
+08-Mar-2023 07:47:34.451 AVERTISSEMENT [main] org.apache.catalina.startup.HostConfig.deployDescriptor L'attribut path avec la valeur [/ServletMrNaina] dans le descripteur de déploiement [/home/ountsouu/logiciels/apache-tomcat-10.0.27/conf/Catalina/localhost/ServletMrNaina.xml] a été ignoré
+08-Mar-2023 07:47:34.593 GRAVE [main] org.apache.catalina.startup.HostConfig.deployDescriptor Erreur lors du déploiement du descripteur de configuration [/home/ountsouu/logiciels/apache-tomcat-10.0.27/conf/Catalina/localhost/ServletMrNaina.xml]
+	java.lang.IllegalStateException: Erreur lors du démarrage du conteneur fils
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:729)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:698)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:747)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:693)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1979)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:123)
+		at org.apache.catalina.startup.HostConfig.deployDescriptors(HostConfig.java:586)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:476)
+		at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1708)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:320)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:423)
+		at org.apache.catalina.util.LifecycleBase.setState(LifecycleBase.java:366)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:946)
+		at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:886)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1396)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1386)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:145)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:919)
+		at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:265)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:432)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:930)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:795)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:345)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:476)
+	Caused by: org.apache.catalina.LifecycleException: Echec de démarrage du composant [org.apache.catalina.webresources.StandardRoot@5a5a729f]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:440)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:198)
+		at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4835)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4973)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:726)
+		... 37 more
+	Caused by: java.lang.IllegalArgumentException: L'ensemble de ressources principal [/home/rango/ITU/NetBeansProjects/Project/ServletMrNaina/build/web] est invalide
+		at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:762)
+		at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:719)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		... 41 more
+08-Mar-2023 07:47:34.604 INFOS [main] org.apache.catalina.startup.HostConfig.deployDescriptor Le traitement du descripteur de déploiement [/home/ountsouu/logiciels/apache-tomcat-10.0.27/conf/Catalina/localhost/ServletMrNaina.xml] a pris [207] ms
+08-Mar-2023 07:47:34.605 INFOS [main] org.apache.catalina.startup.HostConfig.deployDescriptor Déploiement du descripteur de configuration [/home/ountsouu/logiciels/apache-tomcat-10.0.27/conf/Catalina/localhost/Sprint.xml]
+08-Mar-2023 07:47:34.612 AVERTISSEMENT [main] org.apache.catalina.startup.HostConfig.deployDescriptor L'attribut path avec la valeur [/Sprint] dans le descripteur de déploiement [/home/ountsouu/logiciels/apache-tomcat-10.0.27/conf/Catalina/localhost/Sprint.xml] a été ignoré
+08-Mar-2023 07:47:35.604 INFOS [main] org.apache.catalina.startup.HostConfig.deployDescriptor Le traitement du descripteur de déploiement [/home/ountsouu/logiciels/apache-tomcat-10.0.27/conf/Catalina/localhost/Sprint.xml] a pris [998] ms
+08-Mar-2023 07:47:35.609 INFOS [main] org.apache.catalina.startup.HostConfig.deployDirectory Déploiement du répertoire d'application web [/home/ountsouu/logiciels/apache-tomcat-10.0.27/webapps/manager]
+08-Mar-2023 07:47:35.732 INFOS [main] org.apache.catalina.startup.HostConfig.deployDirectory Le déploiement du répertoire [/home/ountsouu/logiciels/apache-tomcat-10.0.27/webapps/manager] de l'application web s'est terminé en [123] ms
+08-Mar-2023 07:47:35.733 INFOS [main] org.apache.catalina.startup.HostConfig.deployDirectory Déploiement du répertoire d'application web [/home/ountsouu/logiciels/apache-tomcat-10.0.27/webapps/docs]
+08-Mar-2023 07:47:35.812 INFOS [main] org.apache.catalina.startup.HostConfig.deployDirectory Le déploiement du répertoire [/home/ountsouu/logiciels/apache-tomcat-10.0.27/webapps/docs] de l'application web s'est terminé en [79] ms
+08-Mar-2023 07:47:35.816 INFOS [main] org.apache.catalina.startup.HostConfig.deployDirectory Déploiement du répertoire d'application web [/home/ountsouu/logiciels/apache-tomcat-10.0.27/webapps/examples]
+08-Mar-2023 07:47:36.570 INFOS [main] org.apache.catalina.startup.HostConfig.deployDirectory Le déploiement du répertoire [/home/ountsouu/logiciels/apache-tomcat-10.0.27/webapps/examples] de l'application web s'est terminé en [753] ms
+08-Mar-2023 07:47:36.579 INFOS [main] org.apache.catalina.startup.HostConfig.deployDirectory Déploiement du répertoire d'application web [/home/ountsouu/logiciels/apache-tomcat-10.0.27/webapps/ROOT]
+08-Mar-2023 07:47:36.620 INFOS [main] org.apache.catalina.startup.HostConfig.deployDirectory Le déploiement du répertoire [/home/ountsouu/logiciels/apache-tomcat-10.0.27/webapps/ROOT] de l'application web s'est terminé en [41] ms
+08-Mar-2023 07:47:36.627 INFOS [main] org.apache.catalina.startup.HostConfig.deployDirectory Déploiement du répertoire d'application web [/home/ountsouu/logiciels/apache-tomcat-10.0.27/webapps/host-manager]
+08-Mar-2023 07:47:36.712 INFOS [main] org.apache.catalina.startup.HostConfig.deployDirectory Le déploiement du répertoire [/home/ountsouu/logiciels/apache-tomcat-10.0.27/webapps/host-manager] de l'application web s'est terminé en [84] ms
+08-Mar-2023 07:47:36.729 INFOS [main] org.apache.coyote.AbstractProtocol.start Démarrage du gestionnaire de protocole ["http-nio-8080"]
+08-Mar-2023 07:47:36.857 INFOS [main] org.apache.catalina.startup.Catalina.start Le démarrage du serveur a pris [2642] millisecondes
+08-Mar-2023 07:47:39.956 INFOS [http-nio-8080-exec-10] org.apache.catalina.startup.HostConfig.deployDescriptor Déploiement du descripteur de configuration [/home/ountsouu/logiciels/apache-tomcat-10.0.27/conf/Catalina/localhost/SICompta.xml]
+08-Mar-2023 07:47:39.959 AVERTISSEMENT [http-nio-8080-exec-10] org.apache.catalina.startup.HostConfig.deployDescriptor L'attribut path avec la valeur [/SICompta] dans le descripteur de déploiement [/home/ountsouu/logiciels/apache-tomcat-10.0.27/conf/Catalina/localhost/SICompta.xml] a été ignoré
+08-Mar-2023 07:47:40.038 INFOS [http-nio-8080-exec-10] org.apache.catalina.startup.HostConfig.deployDescriptor Le traitement du descripteur de déploiement [/home/ountsouu/logiciels/apache-tomcat-10.0.27/conf/Catalina/localhost/SICompta.xml] a pris [83] ms
+08-Mar-2023 07:47:40.056 INFOS [http-nio-8080-exec-1] org.apache.catalina.util.LifecycleBase.start La méthode start() a été appelée sur le composant [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/SICompta]] après que start() ait déjà été appelé, le deuxième appel sera ignoré
+08-Mar-2023 07:50:05.421 INFOS [http-nio-8080-exec-6] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/SICompta] a démarré
+08-Mar-2023 07:50:05.478 INFOS [http-nio-8080-exec-6] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+08-Mar-2023 07:50:17.240 INFOS [http-nio-8080-exec-11] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/SICompta] a démarré
+08-Mar-2023 07:50:17.275 INFOS [http-nio-8080-exec-11] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+08-Mar-2023 08:16:33.563 INFOS [http-nio-8080-exec-21] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/SICompta] a démarré
+08-Mar-2023 08:16:33.601 INFOS [http-nio-8080-exec-21] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+08-Mar-2023 08:24:18.296 INFOS [http-nio-8080-exec-26] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/SICompta] a démarré
+08-Mar-2023 08:24:18.334 INFOS [http-nio-8080-exec-26] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+08-Mar-2023 08:31:46.829 INFOS [http-nio-8080-exec-33] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/SICompta] a démarré
+08-Mar-2023 08:31:46.867 INFOS [http-nio-8080-exec-33] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+08-Mar-2023 08:35:36.653 INFOS [http-nio-8080-exec-43] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/SICompta] a démarré
+08-Mar-2023 08:35:36.703 INFOS [http-nio-8080-exec-43] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+08-Mar-2023 08:35:59.076 INFOS [http-nio-8080-exec-41] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/SICompta] a démarré
+08-Mar-2023 08:35:59.115 INFOS [http-nio-8080-exec-41] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+08-Mar-2023 08:36:24.348 INFOS [http-nio-8080-exec-41] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/SICompta] a démarré
+08-Mar-2023 08:36:24.396 INFOS [http-nio-8080-exec-41] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+08-Mar-2023 08:36:41.218 INFOS [http-nio-8080-exec-50] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/SICompta] a démarré
+08-Mar-2023 08:36:41.242 INFOS [http-nio-8080-exec-50] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+08-Mar-2023 08:36:43.398 INFOS [http-nio-8080-exec-43] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/SICompta] a démarré
+08-Mar-2023 08:36:43.444 INFOS [http-nio-8080-exec-43] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+08-Mar-2023 08:40:08.749 INFOS [http-nio-8080-exec-54] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/SICompta] a démarré
+08-Mar-2023 08:40:08.810 INFOS [http-nio-8080-exec-54] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+08-Mar-2023 08:42:37.017 INFOS [http-nio-8080-exec-66] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/SICompta] a démarré
+08-Mar-2023 08:42:37.064 INFOS [http-nio-8080-exec-66] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+08-Mar-2023 08:42:42.609 INFOS [http-nio-8080-exec-55] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/SICompta] a démarré
+08-Mar-2023 08:42:42.636 INFOS [http-nio-8080-exec-55] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+08-Mar-2023 08:45:43.123 INFOS [http-nio-8080-exec-73] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/SICompta] a démarré
+08-Mar-2023 08:45:43.163 INFOS [http-nio-8080-exec-73] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+08-Mar-2023 09:16:19.264 INFOS [http-nio-8080-exec-87] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/SICompta] a démarré
+08-Mar-2023 09:16:19.301 INFOS [http-nio-8080-exec-87] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+08-Mar-2023 09:27:47.869 INFOS [http-nio-8080-exec-89] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/SICompta] a démarré
+08-Mar-2023 09:27:47.917 INFOS [http-nio-8080-exec-89] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+08-Mar-2023 10:45:11.165 INFOS [http-nio-8080-exec-99] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/SICompta] a démarré
+08-Mar-2023 10:45:11.196 INFOS [http-nio-8080-exec-99] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+08-Mar-2023 10:45:13.527 INFOS [main] org.apache.catalina.core.StandardServer.await Une commande d'arrêt valide a été reçue sur le port d'arrêt, arrêt de l'instance du serveur
+08-Mar-2023 10:45:13.528 INFOS [main] org.apache.coyote.AbstractProtocol.pause Le gestionnaire de protocole ["http-nio-8080"] est mis en pause
+08-Mar-2023 10:45:13.533 INFOS [main] org.apache.catalina.core.StandardService.stopInternal Arrêt du service [Catalina]
+08-Mar-2023 10:45:13.557 INFOS [main] org.apache.coyote.AbstractProtocol.stop Arrêt du gestionnaire de protocole ["http-nio-8080"]
+08-Mar-2023 10:45:13.569 INFOS [main] org.apache.coyote.AbstractProtocol.destroy Destruction du gestionnaire de protocole ["http-nio-8080"]
