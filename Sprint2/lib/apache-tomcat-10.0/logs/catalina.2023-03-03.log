@@ -1,0 +1,114 @@
+03-Mar-2023 10:45:45.606 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Nom version serveur :              Apache Tomcat/10.0.27
+03-Mar-2023 10:45:45.616 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Serveur compilé :                  Oct 3 2022 14:18:31 UTC
+03-Mar-2023 10:45:45.617 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Version du serveur :               10.0.27.0
+03-Mar-2023 10:45:45.617 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Nom de l'OS :                      Linux
+03-Mar-2023 10:45:45.617 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Version OS :                       5.15.0-27-generic
+03-Mar-2023 10:45:45.617 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture :                     amd64
+03-Mar-2023 10:45:45.617 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home :                        /usr/lib/apache-netbeans/jdk
+03-Mar-2023 10:45:45.620 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Version JVM :                      17.0.5+8-LTS
+03-Mar-2023 10:45:45.620 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Fournisseur de la JVM :            Azul Systems, Inc.
+03-Mar-2023 10:45:45.621 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE :                    /home/rango/ITU/log/ognu/tomcat/apache-tomcat-10.0.27
+03-Mar-2023 10:45:45.621 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME :                    /home/rango/ITU/log/ognu/tomcat/apache-tomcat-10.0.27
+03-Mar-2023 10:45:45.638 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.lang=ALL-UNNAMED
+03-Mar-2023 10:45:45.638 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.io=ALL-UNNAMED
+03-Mar-2023 10:45:45.638 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util=ALL-UNNAMED
+03-Mar-2023 10:45:45.638 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+03-Mar-2023 10:45:45.639 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+03-Mar-2023 10:45:45.639 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.config.file=/home/rango/ITU/log/ognu/tomcat/apache-tomcat-10.0.27/conf/logging.properties
+03-Mar-2023 10:45:45.639 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+03-Mar-2023 10:45:45.639 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dhttp.nonProxyHosts=localhost|127.0.0.1|P15A-Dania-1757
+03-Mar-2023 10:45:45.639 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djdk.tls.ephemeralDHKeySize=2048
+03-Mar-2023 10:45:45.639 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+03-Mar-2023 10:45:45.640 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+03-Mar-2023 10:45:45.640 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dignore.endorsed.dirs=
+03-Mar-2023 10:45:45.640 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.base=/home/rango/ITU/log/ognu/tomcat/apache-tomcat-10.0.27
+03-Mar-2023 10:45:45.641 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Dcatalina.home=/home/rango/ITU/log/ognu/tomcat/apache-tomcat-10.0.27
+03-Mar-2023 10:45:45.641 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Argument de la ligne de commande : -Djava.io.tmpdir=/home/rango/ITU/log/ognu/tomcat/apache-tomcat-10.0.27/temp
+03-Mar-2023 10:45:45.644 INFOS [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent La librairie Apache Tomcat Native basée sur APR qui permet des performances optimales dans les environnements de production n'a pas été trouvée sur le java.library.path : [/usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib]
+03-Mar-2023 10:45:46.716 INFOS [main] org.apache.coyote.AbstractProtocol.init Initialisation du gestionnaire de protocole ["http-nio-8080"]
+03-Mar-2023 10:45:46.862 INFOS [main] org.apache.catalina.startup.Catalina.load L'initialisation du serveur a pris [2241] millisecondes
+03-Mar-2023 10:45:47.048 INFOS [main] org.apache.catalina.core.StandardService.startInternal Démarrage du service [Catalina]
+03-Mar-2023 10:45:47.049 INFOS [main] org.apache.catalina.core.StandardEngine.startInternal Démarrage du moteur de Servlets : [Apache Tomcat/10.0.27]
+03-Mar-2023 10:45:47.085 INFOS [main] org.apache.catalina.startup.HostConfig.deployDirectory Déploiement du répertoire d'application web [/home/rango/ITU/log/ognu/tomcat/apache-tomcat-10.0.27/webapps/ROOT]
+03-Mar-2023 10:45:47.881 INFOS [main] org.apache.catalina.startup.HostConfig.deployDirectory Le déploiement du répertoire [/home/rango/ITU/log/ognu/tomcat/apache-tomcat-10.0.27/webapps/ROOT] de l'application web s'est terminé en [794] ms
+03-Mar-2023 10:45:47.881 INFOS [main] org.apache.catalina.startup.HostConfig.deployDirectory Déploiement du répertoire d'application web [/home/rango/ITU/log/ognu/tomcat/apache-tomcat-10.0.27/webapps/manager]
+03-Mar-2023 10:45:47.993 INFOS [main] org.apache.catalina.startup.HostConfig.deployDirectory Le déploiement du répertoire [/home/rango/ITU/log/ognu/tomcat/apache-tomcat-10.0.27/webapps/manager] de l'application web s'est terminé en [111] ms
+03-Mar-2023 10:45:47.994 INFOS [main] org.apache.catalina.startup.HostConfig.deployDirectory Déploiement du répertoire d'application web [/home/rango/ITU/log/ognu/tomcat/apache-tomcat-10.0.27/webapps/examples]
+03-Mar-2023 10:45:48.657 INFOS [main] org.apache.catalina.startup.HostConfig.deployDirectory Le déploiement du répertoire [/home/rango/ITU/log/ognu/tomcat/apache-tomcat-10.0.27/webapps/examples] de l'application web s'est terminé en [663] ms
+03-Mar-2023 10:45:48.658 INFOS [main] org.apache.catalina.startup.HostConfig.deployDirectory Déploiement du répertoire d'application web [/home/rango/ITU/log/ognu/tomcat/apache-tomcat-10.0.27/webapps/host-manager]
+03-Mar-2023 10:45:48.791 INFOS [main] org.apache.catalina.startup.HostConfig.deployDirectory Le déploiement du répertoire [/home/rango/ITU/log/ognu/tomcat/apache-tomcat-10.0.27/webapps/host-manager] de l'application web s'est terminé en [133] ms
+03-Mar-2023 10:45:48.791 INFOS [main] org.apache.catalina.startup.HostConfig.deployDirectory Déploiement du répertoire d'application web [/home/rango/ITU/log/ognu/tomcat/apache-tomcat-10.0.27/webapps/docs]
+03-Mar-2023 10:45:48.871 INFOS [main] org.apache.catalina.startup.HostConfig.deployDirectory Le déploiement du répertoire [/home/rango/ITU/log/ognu/tomcat/apache-tomcat-10.0.27/webapps/docs] de l'application web s'est terminé en [80] ms
+03-Mar-2023 10:45:48.887 INFOS [main] org.apache.coyote.AbstractProtocol.start Démarrage du gestionnaire de protocole ["http-nio-8080"]
+03-Mar-2023 10:45:49.021 INFOS [main] org.apache.catalina.startup.Catalina.start Le démarrage du serveur a pris [2157] millisecondes
+03-Mar-2023 10:45:51.692 INFOS [http-nio-8080-exec-10] org.apache.catalina.startup.HostConfig.deployDescriptor Déploiement du descripteur de configuration [/home/rango/ITU/log/ognu/tomcat/apache-tomcat-10.0.27/conf/Catalina/localhost/ServletMrNaina.xml]
+03-Mar-2023 10:45:51.694 AVERTISSEMENT [http-nio-8080-exec-10] org.apache.catalina.startup.HostConfig.deployDescriptor L'attribut path avec la valeur [/ServletMrNaina] dans le descripteur de déploiement [/home/rango/ITU/log/ognu/tomcat/apache-tomcat-10.0.27/conf/Catalina/localhost/ServletMrNaina.xml] a été ignoré
+03-Mar-2023 10:45:51.747 INFOS [http-nio-8080-exec-10] org.apache.catalina.startup.HostConfig.deployDescriptor Le traitement du descripteur de déploiement [/home/rango/ITU/log/ognu/tomcat/apache-tomcat-10.0.27/conf/Catalina/localhost/ServletMrNaina.xml] a pris [55] ms
+03-Mar-2023 10:45:51.773 INFOS [http-nio-8080-exec-1] org.apache.catalina.util.LifecycleBase.start La méthode start() a été appelée sur le composant [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/ServletMrNaina]] après que start() ait déjà été appelé, le deuxième appel sera ignoré
+03-Mar-2023 10:48:00.578 INFOS [http-nio-8080-exec-5] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/ServletMrNaina] a démarré
+03-Mar-2023 10:48:00.635 INFOS [http-nio-8080-exec-5] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+03-Mar-2023 10:48:08.949 INFOS [Catalina-utility-2] org.apache.catalina.startup.HostConfig.reload Rechargement du contexte [/ServletMrNaina]
+03-Mar-2023 10:48:08.950 INFOS [Catalina-utility-2] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/ServletMrNaina] a démarré
+03-Mar-2023 10:48:09.007 INFOS [Catalina-utility-2] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+03-Mar-2023 10:48:30.391 INFOS [http-nio-8080-exec-13] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/ServletMrNaina] a démarré
+03-Mar-2023 10:48:30.436 INFOS [http-nio-8080-exec-13] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+03-Mar-2023 10:48:43.312 INFOS [http-nio-8080-exec-8] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/ServletMrNaina] a démarré
+03-Mar-2023 10:48:43.366 INFOS [http-nio-8080-exec-8] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+03-Mar-2023 10:48:45.007 INFOS [http-nio-8080-exec-9] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/ServletMrNaina] a démarré
+03-Mar-2023 10:48:45.047 INFOS [http-nio-8080-exec-9] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+03-Mar-2023 10:48:45.616 INFOS [http-nio-8080-exec-15] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/ServletMrNaina] a démarré
+03-Mar-2023 10:48:45.642 INFOS [http-nio-8080-exec-15] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+03-Mar-2023 10:52:13.990 INFOS [http-nio-8080-exec-18] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/ServletMrNaina] a démarré
+03-Mar-2023 10:52:14.037 INFOS [http-nio-8080-exec-18] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+03-Mar-2023 10:52:58.768 INFOS [http-nio-8080-exec-8] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/ServletMrNaina] a démarré
+03-Mar-2023 10:52:58.810 INFOS [http-nio-8080-exec-8] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+03-Mar-2023 10:53:13.066 INFOS [http-nio-8080-exec-21] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/ServletMrNaina] a démarré
+03-Mar-2023 10:53:13.101 INFOS [http-nio-8080-exec-21] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+03-Mar-2023 10:53:49.097 INFOS [Catalina-utility-2] org.apache.catalina.startup.HostConfig.reload Rechargement du contexte [/ServletMrNaina]
+03-Mar-2023 10:53:49.098 INFOS [Catalina-utility-2] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/ServletMrNaina] a démarré
+03-Mar-2023 10:53:49.139 INFOS [Catalina-utility-2] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+03-Mar-2023 10:55:49.171 INFOS [Catalina-utility-1] org.apache.catalina.startup.HostConfig.reload Rechargement du contexte [/ServletMrNaina]
+03-Mar-2023 10:55:49.171 INFOS [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/ServletMrNaina] a démarré
+03-Mar-2023 10:55:49.200 INFOS [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+03-Mar-2023 10:57:34.360 INFOS [http-nio-8080-exec-35] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/ServletMrNaina] a démarré
+03-Mar-2023 10:57:34.415 INFOS [http-nio-8080-exec-35] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+03-Mar-2023 10:57:39.225 INFOS [Catalina-utility-1] org.apache.catalina.startup.HostConfig.reload Rechargement du contexte [/ServletMrNaina]
+03-Mar-2023 10:57:39.225 INFOS [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/ServletMrNaina] a démarré
+03-Mar-2023 10:57:39.257 INFOS [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+03-Mar-2023 10:57:39.399 INFOS [http-nio-8080-exec-30] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/ServletMrNaina] a démarré
+03-Mar-2023 10:57:39.430 INFOS [http-nio-8080-exec-30] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+03-Mar-2023 11:24:41.380 INFOS [http-nio-8080-exec-41] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/ServletMrNaina] a démarré
+03-Mar-2023 11:24:41.413 INFOS [http-nio-8080-exec-41] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+03-Mar-2023 11:25:19.521 INFOS [Catalina-utility-1] org.apache.catalina.startup.HostConfig.reload Rechargement du contexte [/ServletMrNaina]
+03-Mar-2023 11:25:19.521 INFOS [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/ServletMrNaina] a démarré
+03-Mar-2023 11:25:19.541 INFOS [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+03-Mar-2023 11:25:59.136 INFOS [http-nio-8080-exec-54] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/ServletMrNaina] a démarré
+03-Mar-2023 11:25:59.164 INFOS [http-nio-8080-exec-54] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+03-Mar-2023 11:26:49.552 INFOS [Catalina-utility-1] org.apache.catalina.startup.HostConfig.reload Rechargement du contexte [/ServletMrNaina]
+03-Mar-2023 11:26:49.552 INFOS [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/ServletMrNaina] a démarré
+03-Mar-2023 11:26:49.571 INFOS [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+03-Mar-2023 11:27:19.414 INFOS [http-nio-8080-exec-44] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/ServletMrNaina] a démarré
+03-Mar-2023 11:27:19.449 INFOS [http-nio-8080-exec-44] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+03-Mar-2023 11:27:20.133 INFOS [http-nio-8080-exec-53] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/ServletMrNaina] a démarré
+03-Mar-2023 11:27:20.156 INFOS [http-nio-8080-exec-53] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+03-Mar-2023 11:27:23.967 INFOS [http-nio-8080-exec-58] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/ServletMrNaina] a démarré
+03-Mar-2023 11:27:23.983 INFOS [http-nio-8080-exec-58] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+03-Mar-2023 11:27:43.774 INFOS [http-nio-8080-exec-60] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/ServletMrNaina] a démarré
+03-Mar-2023 11:27:43.796 INFOS [http-nio-8080-exec-60] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+03-Mar-2023 11:28:06.384 INFOS [http-nio-8080-exec-64] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/ServletMrNaina] a démarré
+03-Mar-2023 11:28:06.430 INFOS [http-nio-8080-exec-64] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+03-Mar-2023 11:28:27.597 INFOS [http-nio-8080-exec-66] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/ServletMrNaina] a démarré
+03-Mar-2023 11:28:27.617 INFOS [http-nio-8080-exec-66] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+03-Mar-2023 11:28:41.897 INFOS [http-nio-8080-exec-42] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/ServletMrNaina] a démarré
+03-Mar-2023 11:28:41.924 INFOS [http-nio-8080-exec-42] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+03-Mar-2023 11:28:49.272 INFOS [http-nio-8080-exec-63] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/ServletMrNaina] a démarré
+03-Mar-2023 11:28:49.310 INFOS [http-nio-8080-exec-63] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+03-Mar-2023 11:29:34.517 INFOS [http-nio-8080-exec-79] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/ServletMrNaina] a démarré
+03-Mar-2023 11:29:34.545 INFOS [http-nio-8080-exec-79] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+03-Mar-2023 11:30:34.340 INFOS [http-nio-8080-exec-79] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/ServletMrNaina] a démarré
+03-Mar-2023 11:30:34.367 INFOS [http-nio-8080-exec-79] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+03-Mar-2023 12:10:25.546 INFOS [main] org.apache.catalina.core.StandardServer.await Une commande d'arrêt valide a été reçue sur le port d'arrêt, arrêt de l'instance du serveur
+03-Mar-2023 12:10:25.547 INFOS [main] org.apache.coyote.AbstractProtocol.pause Le gestionnaire de protocole ["http-nio-8080"] est mis en pause
+03-Mar-2023 12:10:25.550 INFOS [main] org.apache.catalina.core.StandardService.stopInternal Arrêt du service [Catalina]
+03-Mar-2023 12:10:25.566 INFOS [main] org.apache.coyote.AbstractProtocol.stop Arrêt du gestionnaire de protocole ["http-nio-8080"]
+03-Mar-2023 12:10:25.577 INFOS [main] org.apache.coyote.AbstractProtocol.destroy Destruction du gestionnaire de protocole ["http-nio-8080"]
