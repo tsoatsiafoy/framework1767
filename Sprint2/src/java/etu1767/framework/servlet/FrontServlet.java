@@ -17,6 +17,7 @@ import utilitaires.Utilities;
  * @author yohan
  */
 public class FrontServlet extends HttpServlet {
+	HashMap<String,Mapping>  MappingUrl;
 
     /**
      * Processes requests for both HTTP <code>GET</code> and <code>POST</code>
